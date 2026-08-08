@@ -4,21 +4,21 @@ import "./App.css";
 function App() {
 
   // TODO 1:
-  // Create a state variable to store login status.
+  // Create a state variable named isLoggedIn.
   // Initial value should be false.
 
 
   // TODO 2:
-  // Create a Login button.
-  // Use onClick to change the login status.
-
-
-  // TODO 3:
-  // Use a ternary operator to conditionally display:
+  // Use a ternary operator to display:
   //
-  // "Welcome Student" when logged in
+  // If logged in:
+  //     Welcome Student
   //
-  // "Login" when not logged in.
+  // Otherwise:
+  //     Login button
+  //
+  // The Login button should use onClick
+  // to change the login state.
 
 
 }
