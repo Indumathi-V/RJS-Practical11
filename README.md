@@ -236,7 +236,7 @@ to view your test result.
 | 3 | Ternary operator is used for conditional rendering | 2 |
 | 4 | `Welcome Student` is displayed after login | 2 |
 | 5 | Login button is displayed initially | 2 |
-| | **Total** | **100** |
+| | **Total** | **10** |
 
 ---
 
